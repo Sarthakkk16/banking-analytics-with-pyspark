@@ -1,7 +1,7 @@
 # **banking-analytics-with-pyspark**
 End-to-end banking analytics implemented in PySpark, covering data cleansing, feature engineering, customer segmentation, trend analysis, aggregations, window functions, and production-style data transformations.
 
-!([
+!([https://github.com/Sarthakkk16/banking-analytics-with-pyspark/blob/main/Workflow.png])
 # 🚀 PySpark Banking Analytics & Data Engineering
 
 A comprehensive PySpark project demonstrating real-world banking data preprocessing, transformation, customer analytics, trend analysis, and Spark DataFrame operations using a banking customer dataset.
